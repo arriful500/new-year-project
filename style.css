@@ -1,0 +1,157 @@
+.banner {
+  background-image: url('B9A1-New-Year-New-Mission/resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  margin: 50px 140px 0 140px;
+  border-radius: 16px;
+
+}
+
+.content {
+  color: #FFF;
+
+  text-align: center;
+
+  font-size: 72px;
+
+  font-weight: 900;
+  line-height: 95px;
+  background-repeat: no-repeat;
+  font-family: 'Merriweather', serif;
+
+}
+
+.text {
+  color: #FFF;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 177px;
+}
+
+.discount {
+  font-family: 'Inter', sans-serif;
+  color: #F00;
+  text-align: center;
+  font-size: 88px;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 120px;
+
+}
+
+.primary-text {
+  color: #F00;
+
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal
+}
+
+.all-catagories {
+  color: black;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.title {
+  padding: 0px 100px;
+}
+
+.image {
+
+  width: 802.9px;
+  height: 500px;
+  flex-shrink: 0;
+  margin: 0 398.1px 0 399px;
+}
+
+.section-titles {
+  color: #FFF;
+  font-family: Merriweather;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 7.04px;
+  padding-left: 126px;
+}
+
+.section {
+  background-image: url('B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  display: flex;
+  margin: 146px;
+  border-radius: 15px;
+}
+
+.section-p {
+  color: rgba(255, 255, 255, 0.80);
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+
+  font-weight: 400;
+  line-height: 30px;
+  padding-left: 126px;
+}
+
+.join {
+  color: #FFF;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-left: 158px;
+
+}
+
+.section2 {
+
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 56px;
+  text-transform: capitalize;
+  width: 1320px;
+  height: 482px;
+  flex-shrink: 0;
+  background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+  margin: 120px 160px 120px 140px;
+  padding: 100px;
+  border-radius: 15px;
+}
+
+.btn2 {
+  color: #FFF;
+  background-color: #F00;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+span {
+  color: black;
+}
